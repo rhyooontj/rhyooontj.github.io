@@ -21,17 +21,17 @@ _(데이터 문제해결은행 활용 경진대회)_
 - 결과(수치): (예: 상위 X% / 개선율 X% / 핵심 지표 X개 도출 등, 작성)
 
 > **Data**
-> - Language: Python
+> - Language: Python  
 > - Skill: pandas, numpy  
 >
 > **Analysis**
 > - Skill: 기초통계, 표준화/지표화, 비교 분석, 시각화  
 >
 > **Output**
-> - 산출물: 보고서(PDF), 주요 차트/인사이트 요약
+> - 산출물: 보고서(PDF), 주요 차트/인사이트 요약  
 
-- 프로젝트 상세 설명: https://github.com/rhyooontj/project-data-recipebank
-- PDF: https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf
+- [프로젝트 상세 설명](https://github.com/rhyooontj/project-data-recipebank)  
+- [PDF](https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf)  
 
 ---
 
@@ -43,39 +43,39 @@ _(제주관광공사 데이터 활용 공모전)_
 - 결과(수치): (예: 예측 성능 지표 RMSE/MAE 등 또는 정량 근거 1개, 작성)
 
 > **Data**
-> - Language: Python
+> - Language: Python  
 > - Skill: pandas, 전처리/집계  
 >
 > **Modeling**
 > - Skill: SARIMAX(또는 사용 모델), 시계열/수요 예측, 검증 지표(작성)  
 >
 > **Planning**
-> - 산출물: 기능 설계, 사용자 흐름(플로우), 발표자료(PDF)
+> - 산출물: 기능 설계, 사용자 흐름(플로우), 발표자료(PDF)  
 
-- 프로젝트 상세 설명: https://github.com/rhyooontj/project-golden-jeju
-- PDF: https://github.com/rhyooontj/project-golden-jeju/blob/main/docs/report.pdf
+- [프로젝트 상세 설명](https://github.com/rhyooontj/project-golden-jeju)  
+- [PDF](https://github.com/rhyooontj/project-golden-jeju/blob/main/docs/report.pdf)  
 
 ---
 
 ## 3. 🛰️ T-E-R-R-A
-_(Tactical Engagement & Real-time Reconnaissance Assistant)_
+_(스마트 국방 데이터 분석과정 최종 프로젝트)_
 
 - 개발 기간: (작성)
 - 핵심 역할: 데이터 흐름 정리, 로그 적재/조회 관점 DB 구조 정리, 대시보드 연동 고려한 설계
 - 결과(수치): (예: 처리 속도/지연, 로그 적재 건수, 탐지 성능(mAP) 등 1개, 작성)
 
 > **Back-end / DB**
-> - Language: Python, SQL
+> - Language: Python, SQL  
 > - Skill: FastAPI, MySQL, 로그 적재 구조(작성)  
 >
 > **Client / Dashboard**
 > - Skill: PyQt(또는 대시보드), 시각화/모니터링 화면 구성(작성)  
 >
 > **AI / Detection**
-> - Skill: YOLO 기반 탐지 결과 연동, 이벤트/탐지 로그 구조화(작성)
+> - Skill: YOLO 기반 탐지 결과 연동, 이벤트/탐지 로그 구조화(작성)  
 
-- 프로젝트 상세 설명: https://github.com/rhyooontj/project-terra
-- PDF: https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf
+- [프로젝트 상세 설명](https://github.com/rhyooontj/project-terra)  
+- [PDF](https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf)  
 
 ---
 
