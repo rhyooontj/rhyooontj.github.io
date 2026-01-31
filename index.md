@@ -70,7 +70,7 @@
 <a href="https://github.com/rhyooontj/project-golden-jeju">
   <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
 </a>
-<a href="https://github.com/rhyooontj/project-golden-jeju/blob/main/docs/report.pdf">
+<a href="https://github.com/rhyooontj/project-golden-jeju/raw/main/docs/report.pdf">
   <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
 </a>
 
