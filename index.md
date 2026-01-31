@@ -1,83 +1,108 @@
-# 포트폴리오
+> 고윤서(Yoonseo Ko) - rhyooontj 포트폴리오
 
-데이터를 정리하고 기준을 세워, 결과를 한눈에 이해할 수 있게 만드는 과정을 좋아합니다.  
-강서대학교 G2빅데이터경영학과 졸업예정이며, 스마트 국방 데이터 분석과정을 수료하고 최우수상 수상 이력이 있습니다.  
-아래는 프로젝트 3건을 제가 맡은 역할과 결과 중심으로 정리한 내용입니다.
+<br />
 
----
+# 👋 Intro
 
-## Projects
-- [1. 🧓 노인 생활인구 기반 수요 분석 (데이터 문제해결은행 활용 경진대회)](#1--노인-생활인구-기반-수요-분석)
-- [2. 🏝️ GOLDEN JEJU (제주관광공사 데이터 활용 공모전)](#2--golden-jeju)
-- [3. 🛰️ T-E-R-R-A (스마트 국방 데이터 분석과정 최종 프로젝트)](#3--t-e-r-r-a)
+> 안녕하세요. 데이터를 정리하고 기준을 세워, 결과를 한눈에 이해할 수 있게 만드는 과정을 좋아합니다.  
+> 강서대학교 G2빅데이터경영학과 졸업예정이며, 스마트 국방 데이터 분석과정 수료하였고 최우수상 수상이력이 있습니다.  
+> 아래에는 프로젝트 3건을 문제 정의부터 데이터 처리, 결과 정리까지 흐름 중심으로 정리해두었습니다.
 
----
+<!-- (선택) 프로필/이력서 링크가 있으면 아래 배지 링크만 교체해서 사용하세요 -->
+<!--
+<a href="<PROFILE_LINK>">
+  <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="22px" />
+</a>
+<a href="<RESUME_LINK>">
+  <img src="https://img.shields.io/badge/-Resume-4F46E5?style=for-the-badge" height="22px" />
+</a>
+-->
+
+<br />
+
+# 📝 Projects
+프로젝트는 “**문제 정의 → 데이터 처리/분석 → 결과 정리**” 흐름을 기준으로 정리했습니다.  
+각 프로젝트에서 제가 맡은 역할과 산출물이 무엇인지가 빠르게 보이도록 구성했습니다.
 
 ## 1. 🧓 노인 생활인구 기반 수요 분석
-_(데이터 문제해결은행 활용 경진대회)_
-
-- 개발(분석) 기간: (작성)
-- 핵심 역할: 지표 구성 및 전처리, 기초통계/시각화, 결과 해석 및 리포트 정리
-- 결과(수치): (예: 상위 X% / 개선율 X% / 핵심 지표 X개 도출 등, 작성)
-
-> **Data**
-> - Language: Python  
-> - Skill: pandas, numpy  
+> _(데이터 문제해결은행 활용 경진대회)_
 >
-> **Analysis**
-> - Skill: 기초통계, 표준화/지표화, 비교 분석, 시각화  
->
-> **Output**
-> - 산출물: 보고서(PDF), 주요 차트/인사이트 요약  
+> - 분석 기간 : (작성)
+> - 핵심 역할 : 지표 구성 및 전처리, 기초통계·시각화, 결과 해석 및 보고서 정리
+> - 결과(수치) : (예: 분석 대상 n개 / 핵심 지표 n개 / 상위 n% 등, 실제 수치로 작성)
 
-- [프로젝트 상세 설명](https://github.com/rhyooontj/project-data-recipebank)  
-- [PDF](https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf)  
+>> Data
+>> - Language : Python  
+>> - Skill : pandas, numpy  
+>>
+>> Analysis
+>> - Skill : 기초통계, 표준화/지표화, 비교 분석, 시각화  
+>>
+>> Output
+>> - 산출물 : 보고서(PDF), 주요 차트/인사이트 요약  
 
----
+<a href="https://github.com/rhyooontj/project-data-recipebank">
+  <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
+</a>
+<a href="https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf">
+  <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
+</a>
+
+<br />
 
 ## 2. 🏝️ GOLDEN JEJU
-_(제주관광공사 데이터 활용 공모전)_
-
-- 개발(분석) 기간: (작성)
-- 핵심 역할: 타깃/문제 정의, 수요 흐름 분석 및 예측 접근 정리, 서비스 기능 구조 설계
-- 결과(수치): (예: 예측 성능 지표 RMSE/MAE 등 또는 정량 근거 1개, 작성)
-
-> **Data**
-> - Language: Python  
-> - Skill: pandas, 전처리/집계  
+> _(제주관광공사 데이터 활용 공모전)_
 >
-> **Modeling**
-> - Skill: SARIMAX(또는 사용 모델), 시계열/수요 예측, 검증 지표(작성)  
->
-> **Planning**
-> - 산출물: 기능 설계, 사용자 흐름(플로우), 발표자료(PDF)  
+> - 분석 기간 : (작성)
+> - 핵심 역할 : 문제 정의, 데이터 정리/지표화, 수요 흐름 해석, 서비스 기능 구조 설계
+> - 결과(수치) : (예: 성능 지표 1개 또는 정량 근거 1개를 실제 수치로 작성)
 
-- [프로젝트 상세 설명](https://github.com/rhyooontj/project-golden-jeju)  
-- [PDF](https://github.com/rhyooontj/project-golden-jeju/blob/main/docs/report.pdf)  
+>> Data
+>> - Language : Python  
+>> - Skill : 전처리/집계, 피처 구성  
+>>
+>> Analysis / Modeling
+>> - Skill : (사용 모델/기법 작성), 검증 지표(작성)  
+>>
+>> Output
+>> - 산출물 : 보고서(PDF), 발표자료, 서비스 흐름 요약  
 
----
+<a href="https://github.com/rhyooontj/project-golden-jeju">
+  <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
+</a>
+<a href="https://github.com/rhyooontj/project-golden-jeju/blob/main/docs/report.pdf">
+  <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
+</a>
+
+<br />
 
 ## 3. 🛰️ T-E-R-R-A
-_(스마트 국방 데이터 분석과정 최종 프로젝트)_
-
-- 개발 기간: (작성)
-- 핵심 역할: 데이터 흐름 정리, 로그 적재/조회 관점 DB 구조 정리, 대시보드 연동 고려한 설계
-- 결과(수치): (예: 처리 속도/지연, 로그 적재 건수, 탐지 성능(mAP) 등 1개, 작성)
-
-> **Back-end / DB**
-> - Language: Python, SQL  
-> - Skill: FastAPI, MySQL, 로그 적재 구조(작성)  
+> _(스마트 국방 데이터 분석과정 최종 프로젝트)_
 >
-> **Client / Dashboard**
-> - Skill: PyQt(또는 대시보드), 시각화/모니터링 화면 구성(작성)  
->
-> **AI / Detection**
-> - Skill: YOLO 기반 탐지 결과 연동, 이벤트/탐지 로그 구조화(작성)  
+> - 개발 기간 : (작성)
+> - 핵심 역할 : 데이터 흐름 정리, 로그 적재/조회 관점 DB 구조 정리, 대시보드 연동 관점 설계
+> - 결과(수치) : (예: 적재 건수 n건 / 지연 시간 n초 / mAP n 등, 실제 수치로 작성)
 
-- [프로젝트 상세 설명](https://github.com/rhyooontj/project-terra)  
-- [PDF](https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf)  
+>> Back-end / DB
+>> - Language : Python, SQL  
+>> - Skill : FastAPI, MySQL, 적재/조회 구조 설계  
+>>
+>> Client / Dashboard
+>> - Skill : PyQt 기반 화면 구성, 명령 수신/표시 흐름  
+>>
+>> AI / Detection
+>> - Skill : YOLO 탐지 결과를 이벤트/로그로 구조화  
 
----
+<a href="https://github.com/rhyooontj/project-terra">
+  <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
+</a>
+<a href="https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf">
+  <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
+</a>
 
-## Contact
-- GitHub: https://github.com/rhyooontj
+<br />
+
+# 🔗 Contact
+<a href="https://github.com/rhyooontj">
+  <img src="https://img.shields.io/badge/GitHub-rhyooontj-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
+</a>
