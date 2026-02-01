@@ -8,16 +8,6 @@
 > 강서대학교 G2빅데이터경영학과 졸업예정이며, 스마트 국방 데이터 분석과정 수료하였고 최우수상 수상이력이 있습니다.  
 > 아래에는 프로젝트 3건을 문제 정의부터 데이터 처리, 결과 정리까지 흐름 중심으로 정리해두었습니다.
 
-<!-- (선택) 프로필/이력서 링크가 있으면 아래 배지 링크만 교체해서 사용하세요 -->
-<!--
-<a href="<PROFILE_LINK>">
-  <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="22px" />
-</a>
-<a href="<RESUME_LINK>">
-  <img src="https://img.shields.io/badge/-Resume-4F46E5?style=for-the-badge" height="22px" />
-</a>
--->
-
 <br />
 
 # 📝 Projects
