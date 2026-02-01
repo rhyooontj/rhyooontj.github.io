@@ -34,7 +34,7 @@
 <a href="https://github.com/rhyooontj/project-data-recipebank">
   <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
 </a>
-<a href="https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf">
+<a href="https://rhyooontj.github.io/project-data-recipebank/report.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
 </a>
 
