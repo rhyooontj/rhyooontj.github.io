@@ -93,10 +93,10 @@
 >> AI / Detection
 >> - Skill : YOLO 탐지 결과를 이벤트/로그로 구조화  
 
-<a href="https://github.com/rhyooontj/project-terra">
+<a href="https://github.com/rhyooontj/project-terra" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="22px" />
 </a>
-<a href="https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf">
+<a href="https://github.com/rhyooontj/project-terra/blob/main/docs/report.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="22px" />
 </a>
 
